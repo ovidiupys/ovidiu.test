@@ -1,0 +1,47 @@
+Temperatura : <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Focsani, RO</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Focsani__RO/*http://weather.yahoo.com/forecast/ROXX0008_c.html</link>
+<description>Yahoo! Weather for Focsani, RO</description>
+<language>en-us</language>
+<lastBuildDate>Tue, 23 Aug 2011 11:58 pm EEST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Focsani" region=""   country="RO"/>
+<yweather:units temperature="C" distance="km" pressure="mb" speed="km/h"/>
+<yweather:wind chill="23"   direction="310"   speed="" />
+<yweather:atmosphere humidity="70"  visibility="9.99"  pressure="1018.7"  rising="1" />
+<yweather:astronomy sunrise="6:22 am"   sunset="8:06 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Focsani, RO at 11:58 pm EEST</title>
+<geo:lat>45.7</geo:lat>
+<geo:long>27.18</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Focsani__RO/*http://weather.yahoo.com/forecast/ROXX0008_c.html</link>
+<pubDate>Tue, 23 Aug 2011 11:58 pm EEST</pubDate>
+<yweather:condition  text="Clear"  code="31"  temp="23"  date="Tue, 23 Aug 2011 11:58 pm EEST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/31.gif"/><br />
+<b>Current Conditions:</b><br />
+Clear, 23 C<BR />
+<BR /><b>Forecast:</b><BR />
+Tue - Clear. High: 31 Low: 21<br />
+Wed - Sunny. High: 32 Low: 20<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Focsani__RO/*http://weather.yahoo.com/forecast/ROXX0008_c.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Tue" date="23 Aug 2011" low="21" high="31" text="Clear" code="31" />
+<yweather:forecast day="Wed" date="24 Aug 2011" low="20" high="32" text="Sunny" code="32" />
+<guid isPermaLink="false">ROXX0008_2011_08_23_23_58_EEST</guid>
+</item>
+</channel>
+</rss>
+<!-- api1.weather.ch1.yahoo.com uncompressed/chunked Tue Aug 23 14:47:54 PDT 2011 -->
