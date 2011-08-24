@@ -1,3 +1,8 @@
-insert
+Files : 
+
+get-rss		- perl script that gets temperature from weather.yahoo.com
+project.cpp	- cpp script that shows a menu
+test		- the compiled executable
+text.log	- the text file that stores the rss data pulled with the perl scriptinsert
 this is a test file
 this file has been edited in master branch
